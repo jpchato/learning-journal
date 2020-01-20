@@ -3,7 +3,7 @@
 ## About Me
 My name is Jesse Pena.  I'm an Army Veteran, The Evergreen State College Alumni, and proud fur Dad of my dog CJ and cat Cedar.
 
-![CJ](https://github.com/jpchato/learning-journal/blob/master/CJ.jpg)
+![CJ](https://ibb.co/xFCZsmH)
 
 This will track my learning as I work through the courses at CodeFellows.
 
