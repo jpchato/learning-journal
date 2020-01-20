@@ -8,3 +8,6 @@ Markdown is a shortcut to HTML tools.  Markdown does not provide as much control
 It also allows you to make words
 # From this big
 ###### To this small
+
+## Anticipating Use
+I anticipate using markdown as I continue to learn and develop my skills here at CodeFellows.
