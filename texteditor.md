@@ -26,5 +26,12 @@ There are many different text editors to choose from.  In a way, we're lucky tha
 # Terminals
 The terminal (aka the command prompt) is a way to communicate with the system via text. On my computer I can pull it via the search bar by typing in command prompt into the search bar at the lower half of my screen. 
 
-There are various shortcuts in the command prompt.  For instance, you can use the up and down arrows to look through your history if you want to return to a previous prompt.
+There are various shortcuts in the command prompt.  For instance, you can use the up and down arrows to look through your history if you want to return to a previous prompt.  
+
+## Shortcuts
+* pwd=Print Working Directory
+* ls=list
+
+## Paths
+Paths are files or directories on the command line.
 
