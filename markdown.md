@@ -4,3 +4,7 @@ Markdown is a shortcut to HTML tools.  Markdown does not provide as much control
 1) **bold**
 2) *italicize*
 3) make lists
+
+It also allows you to make words
+# From this big
+###### To this small
