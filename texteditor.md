@@ -33,6 +33,9 @@ There are various shortcuts in the command prompt.  For instance, you can use th
 * ls=list
 * ~=shortcut for home directory
 * tab=Pressing tab will auto complete whatever you've begun typing with possible paths
+* git add filename=add file
+* git commit -m "message" = write a message with commit
+* git push origin master = sync local and cloud versions of git and GitHub
 
 ## Paths
 Paths are files or directories on the command line. There are two types of paths: absolute and relative. Paths are based on a hierarchical structure, and at the top of the hierarchy is the root.  
