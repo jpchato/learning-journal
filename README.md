@@ -5,8 +5,8 @@ My name is Jesse Pena.  I'm an Army Veteran, The Evergreen State College Alumni,
 
 This will track my learning as I work through the courses at CodeFellows.
 
-[Markdown Understanding](https://jpchato.github.io/learning-journal/markdown)
-[Text Editor and Terminal](https://jpchato.github.io/learning-journal/texteditor)
+* [Markdown Understanding](https://jpchato.github.io/learning-journal/markdown)
+* [Text Editor and Terminal](https://jpchato.github.io/learning-journal/texteditor)
 
 You can follow my work here: https://github.com/jpchato
 ### Growth Mindset
