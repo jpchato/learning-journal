@@ -19,7 +19,7 @@
 * Creates mirrored repos for devs to use
 * Allows for simultaneous workflow which allows multiple people to work on code at the same time
 
-## Git
+# Git
 * **Snapshots**
     * Git is a DVCS. It stores data as files made up of snapshots.
     * Every changed version that is saved (commit) creates a snapshot of the file and stores a reference to it.
