@@ -7,6 +7,7 @@ This will track my learning as I work through the courses at CodeFellows.
 
 * [Markdown Understanding](https://jpchato.github.io/learning-journal/markdown)
 * [Text Editor and Terminal](https://jpchato.github.io/learning-journal/texteditor)
+* [Revisions and the Cloud](https://jpchato.github.io/learning-journal/revisionsandthecloud)
 
 You can follow my work here: https://github.com/jpchato
 ### Growth Mindset
