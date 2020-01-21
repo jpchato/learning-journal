@@ -31,7 +31,13 @@ There are various shortcuts in the command prompt.  For instance, you can use th
 ## Shortcuts
 * pwd=Print Working Directory
 * ls=list
+* ~=shortcut for home directory
+* tab=Pressing tab will auto complete whatever you've begun typing with possible paths
 
 ## Paths
-Paths are files or directories on the command line.
+Paths are files or directories on the command line. There are two types of paths: absolute and relative. Paths are based on a hierarchical structure, and at the top of the hierarchy is the root.  
 
+Absolute paths work off of the root directory. Relative paths are based off of where you currently are in the system. 
+
+### Final Thoughts
+Terminal use is probably the most daunting of the topics covered today. I look forward to learning more in the coming days and continuing to develop my skills.
