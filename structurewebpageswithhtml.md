@@ -95,5 +95,42 @@
 
 # **Extra Markup**
 * Several different versions of HTML have been used since the creation of the web (HTML 4, XHTML 1.0)
-* To create a comment in html ...
-* LEft off on pg 182
+* Add comments to code so when you come back to it later the code can make sense
+* Comments are not viewable on the web page, but they are viewable in the source code
+* ID Attribute
+    * Used to uniquely identify a specific element from other elements on the page
+    * No two elements on the same page should have the same value for their id attributes (because then they would no longer be unique)
+    * Giving an element a unique identity allows you to style it differently from other instances of the same element on the page
+    * id attribute is known as the **global attribute** because it can be used on any element
+* Class Attribute
+    * When you want to identify several elements as being different from other elements on the page
+    * Class attributes can be shared unlike ID attributes
+* Block Elements
+    * **Block level** elements always start on a new line in the browser (h1, p, ul, li)
+* Inline Elements 
+    * **Inline elements** continue on the same line as their neighboring elements (a, b, em, img)
+* Grouping Text and Elements in a Block
+    * div allows a set of elements to be grouped together in one block
+    * The contents of a div element will start on a new line in the browser
+    * Using an id or class attribute on the div element allows for CSS style rules to manipulate the amount of space that the div element occupies and can change the appearance of the elements contained within it
+* Grouping Text and Elements Inline
+    * span acts like an inline equivalent of div
+    * It can be used to contain a piece of text where there is no other alternative element to help differentiate it from surrounding text
+    * It can contain multiple inline elements
+    * Mostly used in conjunction with CSS  to control the appearance of the elements within
+* Iframes
+    * An abbreviation of inline frame
+    * Used to place a window in the webpage
+    * src attribute specifies the url of the page to show in the frame
+    * height attribute specifies the heigh of the frame
+    * width attribute specifies the width
+    * seamless is used when scrollbars are not needed
+* Information About Your Pages
+    * meta
+        * The meta element lives in the head element and contains info about the webpage
+        * Not visible to user but fulfills multiple purposes such as telling search engines about the page, who created it, and if it's time sensistive
+        * An empty element that does not have a closing tag
+        * Uses attributes to carry info
+        * Name and attribute are the most common attributes in the meta tag
+        * Some defined values for the name attribute: description, keywords, robots
+
