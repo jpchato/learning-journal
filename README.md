@@ -1,9 +1,9 @@
 # Learning-Journal
 
 ## About Me
-My name is Jesse Pena.  I'm an Army Veteran, The Evergreen State College Alumni, and proud fur Dad of my dog CJ and cat Cedar.
+My name is Jesse Pena.  I'm was born in Los Angeles, but I've been *mostly* living in Washington since April 2013. I'm an Army Veteran, Evergreen State College Alumni, and proud fur Dad of my dog CJ and cat Cedar. I love spending time with my fiancée and look forward to getting married eventually.
 
-My current hobbies are gaming, playing with my dog, lifting weights, and spending time with my girlfriend.
+My current hobbies are gaming, playing with my dog, and lifting weights.
 
 This will track my learning as I work through the courses at CodeFellows.
 
