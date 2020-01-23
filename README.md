@@ -16,6 +16,7 @@ This will track my learning as I work through the courses at CodeFellows.
 * [Web Page Structure and HTML](https://jpchato.github.io/learning-journal/structurewebpageswithhtml)
 * [CSS](https://jpchato.github.io/learning-journal/cssreading)
 * [Javascript](https://jpchato.github.io/learning-journal/javascript)
+* [Understanding Computers](https://jpchato.github.io/learning-journal/howcomputerswork)
 #### [My GitHub Page](https://github.com/jpchato)
 
 
