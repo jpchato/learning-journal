@@ -1,4 +1,4 @@
-# **Three Things Learned##
+# **Three Things Learned**
 1. Computers use binary to process data (as opposed to the decimal system)
 2.  4 components of a computer
     1. Input
