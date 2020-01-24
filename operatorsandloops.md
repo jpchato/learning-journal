@@ -60,9 +60,11 @@
         * This instructs the code to run a specified number of times
         * Consists of three statements:
             1. initialization
-                * create a variable and sets it to 0
+                * create a variable and sets it to whatever you want
                 * this variable commonly called i, and acts as a counter
-                * var i = 0;
+                * (i.e.) var i = 0;
             2. condition
+                * the loop continues to run until the counter reaches the specified number
             3. update
+                * every time loop updates it adds (changes) to the counter
 
