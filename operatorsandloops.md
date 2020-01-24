@@ -56,5 +56,13 @@
     3. Do While
         * similar to while, but it always run the statements inside the curly braces at least once, even if condition evaluates to false
 * Loop Counters
-    * p. 171
+    * A **for** loop uses a counter as a condition
+        * This instructs the code to run a specified number of times
+        * Consists of three statements:
+            1. initialization
+                * create a variable and sets it to 0
+                * this variable commonly called i, and acts as a counter
+                * var i = 0;
+            2. condition
+            3. update
 
